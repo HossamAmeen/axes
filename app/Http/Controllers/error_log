@@ -1,0 +1,224 @@
+[18-Jul-2022 05:37:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 05:37:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 05:37:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 05:37:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 05:37:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 05:37:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 05:37:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 05:37:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 07:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 07:29:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 07:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 07:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 07:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 07:29:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 07:29:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 07:29:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 09:27:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 09:27:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 09:27:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 09:27:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 09:27:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 09:27:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 09:27:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 09:27:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 11:35:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 11:35:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 11:35:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 11:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 11:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 11:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 11:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 11:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 12:22:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 12:22:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 12:22:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 12:22:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 12:22:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 12:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 12:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 12:22:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 13:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 13:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 13:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 13:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 13:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 13:36:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 13:36:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 13:36:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 14:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 14:27:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/ClientController.php on line 8
+[18-Jul-2022 14:27:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 14:27:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/Controller.php on line 10
+[18-Jul-2022 14:27:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 14:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/HomeController.php on line 15
+[18-Jul-2022 14:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9
+[18-Jul-2022 14:27:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Http/Controllers/MobileController.php on line 9

@@ -1,0 +1,824 @@
+[18-Jul-2022 05:34:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 05:34:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 05:34:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 05:34:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 05:34:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 05:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 05:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 05:34:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 05:34:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 05:34:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 05:34:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 05:34:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 05:34:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 05:34:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 05:34:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 05:34:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 05:34:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 05:34:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 05:34:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 05:34:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 07:27:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 07:27:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 07:27:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 07:27:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 07:27:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 07:27:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 07:27:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 07:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 07:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 07:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 07:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 07:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 07:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 07:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 07:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 07:27:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 07:27:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 07:27:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 07:27:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 07:27:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 09:23:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 09:24:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 09:24:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 09:24:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 09:24:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 09:24:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 09:24:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 09:24:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 09:24:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 09:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 09:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 09:24:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 09:24:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 09:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 09:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 09:24:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 09:24:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 09:24:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 09:24:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 09:24:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 11:32:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 11:32:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 11:32:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 11:32:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 11:32:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 11:32:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 11:32:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 11:32:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 11:32:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 11:32:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 11:32:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 11:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 11:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 11:32:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 11:32:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 11:32:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 11:32:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 11:32:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 11:32:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 11:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 12:19:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 12:19:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 12:19:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 12:19:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 12:19:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 12:19:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 12:19:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 12:19:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 12:19:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 12:19:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 12:19:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 12:19:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 12:19:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 12:19:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 12:19:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 12:19:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 12:19:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 12:19:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 12:19:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 12:19:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 13:33:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 13:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 13:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 13:33:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 13:33:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 13:33:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 13:33:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 13:33:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 13:33:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 13:33:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 13:33:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 13:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 13:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 13:34:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 13:34:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 13:34:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 13:34:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 13:34:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 13:34:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 13:34:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 14:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 14:24:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[18-Jul-2022 14:24:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 14:24:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[18-Jul-2022 14:24:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 14:24:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[18-Jul-2022 14:25:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 14:25:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[18-Jul-2022 14:25:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 14:25:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[18-Jul-2022 14:25:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 14:25:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[18-Jul-2022 14:25:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 14:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[18-Jul-2022 14:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 14:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[18-Jul-2022 14:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 14:25:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[18-Jul-2022 14:25:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[18-Jul-2022 14:25:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[19-Jul-2022 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[19-Jul-2022 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[19-Jul-2022 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[19-Jul-2022 00:52:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[19-Jul-2022 00:52:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[19-Jul-2022 00:52:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[19-Jul-2022 00:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[19-Jul-2022 00:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[19-Jul-2022 00:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[19-Jul-2022 00:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[19-Jul-2022 00:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[19-Jul-2022 00:52:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[19-Jul-2022 00:52:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[19-Jul-2022 00:52:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[19-Jul-2022 00:52:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Gallery.php on line 7
+[19-Jul-2022 00:52:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[19-Jul-2022 00:52:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[19-Jul-2022 00:52:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Governorate.php on line 7
+[19-Jul-2022 00:52:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[19-Jul-2022 00:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[19-Jul-2022 00:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[19-Jul-2022 00:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[19-Jul-2022 00:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/City.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7
+[19-Jul-2022 00:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:52:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:52:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[19-Jul-2022 00:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[19-Jul-2022 00:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:52:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:52:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[19-Jul-2022 00:52:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Video.php on line 8
+[19-Jul-2022 00:53:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[19-Jul-2022 00:53:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[19-Jul-2022 00:53:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[19-Jul-2022 00:53:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/User.php on line 9
+[19-Jul-2022 00:53:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[19-Jul-2022 00:53:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Article.php on line 7
+[19-Jul-2022 00:53:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[19-Jul-2022 00:53:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[19-Jul-2022 00:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[19-Jul-2022 00:53:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Question.php on line 7
+[19-Jul-2022 00:53:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[19-Jul-2022 00:53:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Configration.php on line 7
+[19-Jul-2022 00:53:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/News.php on line 7
+[19-Jul-2022 00:53:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Models/Service.php on line 7

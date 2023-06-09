@@ -1,0 +1,440 @@
+[18-Jul-2022 05:33:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 05:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 05:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 05:34:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 05:34:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 05:34:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 05:34:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 05:34:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 07:26:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 07:26:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 07:26:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 07:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 07:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 07:26:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 07:26:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 07:26:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 09:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 09:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 09:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 09:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 09:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 09:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 09:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 09:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 11:31:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 11:31:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 11:31:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 11:32:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 11:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 11:32:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 11:32:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 11:32:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 12:18:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 12:18:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 12:18:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 12:18:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 12:18:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 12:18:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 12:18:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 12:18:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 13:32:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 13:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 13:33:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 13:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 13:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 13:33:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 13:33:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 13:33:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 14:24:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 14:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 14:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 14:24:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 14:24:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 14:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 14:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 14:24:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 21:17:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 21:17:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 21:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 21:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 21:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 21:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 21:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 21:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 21:17:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 21:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 21:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 21:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[18-Jul-2022 21:17:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 21:17:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 21:17:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[18-Jul-2022 21:17:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 21:17:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 21:17:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[18-Jul-2022 21:17:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[18-Jul-2022 21:17:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[19-Jul-2022 00:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[19-Jul-2022 00:51:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[19-Jul-2022 00:51:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:51:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[19-Jul-2022 00:52:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:52:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[19-Jul-2022 00:52:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[19-Jul-2022 00:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[19-Jul-2022 00:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/api.php on line 20
+[19-Jul-2022 00:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:52:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[19-Jul-2022 00:52:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/elnanrdl/sites/aboadam-used.com/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/console.php on line 16
+[19-Jul-2022 00:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/channels.php on line 14
+[19-Jul-2022 00:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5
+[19-Jul-2022 00:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/elnanrdl/sites/aboadam-used.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/routes/web.php on line 5

@@ -1,0 +1,1356 @@
+[18-Jul-2022 05:33:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:33:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 05:33:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 05:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:33:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:33:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:33:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:33:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 05:33:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 05:33:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:33:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:33:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:33:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:33:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:33:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:33:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 05:33:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 05:33:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 05:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 05:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:35:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 05:35:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 05:35:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 05:35:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 05:35:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 05:35:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 05:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:35:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 05:35:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 05:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 05:35:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:35:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 05:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:36:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:36:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 05:36:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 05:36:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 05:36:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 05:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 05:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 05:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 05:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 05:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 05:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 07:25:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 07:25:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 07:25:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 07:25:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 07:25:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 07:25:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 07:25:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 07:25:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 07:25:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 07:25:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 07:25:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 07:25:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 07:25:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 07:26:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 07:26:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 07:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 07:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 07:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 07:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 07:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 07:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 07:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 07:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 07:26:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 09:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 09:22:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 09:22:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 09:22:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 09:22:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 09:22:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 09:22:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 09:22:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 09:22:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 09:22:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 09:22:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 09:22:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 09:22:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 09:22:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 09:22:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 09:22:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 09:22:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 09:22:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 09:22:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 09:22:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 09:22:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 09:22:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 09:22:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 09:22:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 11:31:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 11:31:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 11:31:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 11:31:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 11:31:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 11:31:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 11:31:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 11:31:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 11:31:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 11:31:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 11:31:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 11:31:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 11:31:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 11:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 11:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 11:31:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 11:31:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 11:31:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 11:31:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 11:31:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 11:31:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 11:31:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 11:31:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 11:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 12:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 12:17:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 12:17:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 12:17:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 12:17:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 12:17:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 12:17:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 12:17:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 12:17:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 12:17:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 12:17:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 12:18:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 12:18:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 12:18:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 12:18:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 12:18:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 12:18:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 12:18:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 12:18:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 12:18:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 12:18:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 12:18:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 12:18:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 12:18:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 13:04:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 13:15:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 13:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 13:31:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 13:31:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 13:31:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 13:31:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 13:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 13:32:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 13:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 13:32:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 13:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 13:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 13:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 13:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 13:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 13:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 13:32:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 13:32:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 13:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 13:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 13:32:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 13:32:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 13:32:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 13:32:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 13:32:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 14:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 14:23:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 14:23:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 14:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 14:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 14:23:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 14:23:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 14:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[18-Jul-2022 14:23:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 14:23:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[18-Jul-2022 14:23:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 14:23:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 14:23:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 14:23:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[18-Jul-2022 14:23:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 14:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 14:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 14:23:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 14:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 14:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[18-Jul-2022 14:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 14:23:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[18-Jul-2022 14:23:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 14:23:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[18-Jul-2022 14:45:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[18-Jul-2022 14:47:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[18-Jul-2022 14:47:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[18-Jul-2022 14:50:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[18-Jul-2022 14:50:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[18-Jul-2022 14:50:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[18-Jul-2022 14:55:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[19-Jul-2022 00:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[19-Jul-2022 00:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[19-Jul-2022 00:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/session.php on line 21
+[19-Jul-2022 00:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[19-Jul-2022 00:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[19-Jul-2022 00:52:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[19-Jul-2022 00:52:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[19-Jul-2022 00:52:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[19-Jul-2022 00:52:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[19-Jul-2022 00:52:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[19-Jul-2022 00:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[19-Jul-2022 00:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[19-Jul-2022 00:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[19-Jul-2022 00:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[19-Jul-2022 00:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[19-Jul-2022 00:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[19-Jul-2022 00:52:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[19-Jul-2022 00:52:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[19-Jul-2022 00:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[19-Jul-2022 00:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18
+[19-Jul-2022 00:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/app.php on line 16
+[19-Jul-2022 00:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[19-Jul-2022 00:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[19-Jul-2022 00:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[19-Jul-2022 00:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[19-Jul-2022 00:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[19-Jul-2022 00:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[19-Jul-2022 00:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/logging.php on line 19
+[19-Jul-2022 00:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[19-Jul-2022 00:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[19-Jul-2022 00:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[19-Jul-2022 00:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[19-Jul-2022 00:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[19-Jul-2022 00:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[19-Jul-2022 00:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/mail.php on line 19
+[19-Jul-2022 00:52:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[19-Jul-2022 00:52:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/filesystems.php on line 16
+[19-Jul-2022 00:52:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[19-Jul-2022 00:52:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[19-Jul-2022 00:52:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[19-Jul-2022 00:52:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/broadcasting.php on line 18
+[19-Jul-2022 00:52:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[19-Jul-2022 00:52:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[19-Jul-2022 00:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[19-Jul-2022 00:52:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[19-Jul-2022 00:52:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/hashing.php on line 32
+[19-Jul-2022 00:52:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[19-Jul-2022 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/cache.php on line 21
+[19-Jul-2022 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[19-Jul-2022 00:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/queue.php on line 16
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[19-Jul-2022 00:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[19-Jul-2022 00:52:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[19-Jul-2022 00:52:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/database.php on line 18
+[19-Jul-2022 00:53:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[19-Jul-2022 00:53:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/elnanrdl/sites/aboadam-used.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/view.php on line 17
+[19-Jul-2022 10:24:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elnanrdl/sites/aboadam-used.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/config/services.php on line 18

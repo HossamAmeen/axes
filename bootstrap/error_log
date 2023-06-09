@@ -1,0 +1,112 @@
+[18-Jul-2022 05:33:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 05:33:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 07:25:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 07:25:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 09:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 09:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 11:31:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 11:31:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 12:17:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 12:17:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 13:31:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 13:31:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 14:23:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 14:23:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 21:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 21:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 21:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 21:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 21:17:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 21:17:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[18-Jul-2022 21:17:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[19-Jul-2022 00:52:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[19-Jul-2022 00:52:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[19-Jul-2022 00:52:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[19-Jul-2022 00:52:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[19-Jul-2022 00:52:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14
+[19-Jul-2022 00:52:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/bootstrap/app.php on line 14

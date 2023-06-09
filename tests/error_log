@@ -1,0 +1,140 @@
+[18-Jul-2022 05:34:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 05:34:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 05:35:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 05:35:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 05:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 05:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 05:35:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 07:26:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 07:26:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 09:23:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 09:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 11:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 11:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 12:18:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 12:18:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 13:33:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 13:33:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 14:24:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 14:24:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:17:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:17:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:18:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:19:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[18-Jul-2022 21:26:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[19-Jul-2022 00:51:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[19-Jul-2022 00:51:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[19-Jul-2022 00:51:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[19-Jul-2022 00:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[19-Jul-2022 00:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[19-Jul-2022 00:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7
+[19-Jul-2022 00:52:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/TestCase.php on line 7

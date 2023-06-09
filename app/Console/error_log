@@ -1,0 +1,76 @@
+[18-Jul-2022 05:34:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 05:34:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 07:27:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 07:27:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 09:23:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 09:23:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 11:32:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 11:32:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 12:19:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 12:19:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 13:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 13:33:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 14:24:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[18-Jul-2022 14:24:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8
+[19-Jul-2022 00:52:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Console/Kernel.php on line 8

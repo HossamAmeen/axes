@@ -1,0 +1,108 @@
+[18-Jul-2022 05:35:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 05:35:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 07:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 07:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 09:25:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 09:25:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 11:33:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 11:33:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 12:20:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 12:20:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 13:35:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 13:35:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 14:26:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 14:26:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 21:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 21:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 21:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 21:17:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 21:17:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[18-Jul-2022 21:17:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[19-Jul-2022 00:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[19-Jul-2022 00:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[19-Jul-2022 00:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[19-Jul-2022 00:52:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[19-Jul-2022 00:52:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[19-Jul-2022 00:52:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8
+[19-Jul-2022 00:52:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/tests/Unit/ExampleTest.php on line 8

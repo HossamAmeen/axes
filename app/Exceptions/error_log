@@ -1,0 +1,84 @@
+[18-Jul-2022 05:34:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 05:34:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 07:27:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 07:27:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 09:23:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 09:23:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 11:32:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 11:32:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 12:19:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 12:19:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 13:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 13:33:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 14:24:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[18-Jul-2022 14:24:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[19-Jul-2022 00:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[19-Jul-2022 00:52:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[19-Jul-2022 00:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
+[19-Jul-2022 00:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/elnanrdl/sites/aboadam-used.com/app/Exceptions/Handler.php on line 8
